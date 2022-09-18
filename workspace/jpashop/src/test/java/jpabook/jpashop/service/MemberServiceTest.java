@@ -40,7 +40,7 @@ public class MemberServiceTest {
     }
 
     @Test
-    public void 중복_회원_예외외() throws Exception {
+    public void 중복_회원_예외() throws Exception {
         //given
         String name = "kim";
 
